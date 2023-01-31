@@ -1,0 +1,6 @@
+I used Zephyr Squad to write all the test cases for the following webpage https://www.accesstravel.com/en-US/Hotel/List
+I ran the tests I created, signed the tests as pass/fail, and noted bugs/defects if found.
+Using common sense and experience with known web applications to test parts not described in the document. 
+I thought, how can I hack the app? I created both positive and negative test cases.I focused on search filters and search functionality.
+In the link below you can see what was received.
+https://legionqa.atlassian.net/jira/software/c/projects/TIN/issues
